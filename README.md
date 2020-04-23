@@ -328,4 +328,7 @@ contributions are Copyright © by Bjoern Kimminich 2014-2020.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
 
-Fun to learn https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/appendix/solutions.html
+
+Fun to learn 
+https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/appendix/solutions.html
+https://incognitjoe.github.io/hacking-the-juice-shop.html
