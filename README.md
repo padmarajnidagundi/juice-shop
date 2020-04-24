@@ -334,4 +334,4 @@ https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/appendix/solution
 https://incognitjoe.github.io/hacking-the-juice-shop.html
 
 UI Protractor end-to-end test
-https://github.com/bkimminich/juice-shop/tree/master/test/e2e
+https://github.com/bkimminich/juice-shop/tree/master/test
