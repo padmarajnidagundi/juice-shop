@@ -332,3 +332,6 @@ contributions are Copyright © by Bjoern Kimminich 2014-2020.
 Fun to learn 
 https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/appendix/solutions.html
 https://incognitjoe.github.io/hacking-the-juice-shop.html
+
+UI Protractor end-to-end test
+https://github.com/bkimminich/juice-shop/tree/master/test/e2e
